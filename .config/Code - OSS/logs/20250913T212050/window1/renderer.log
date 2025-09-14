@@ -1,0 +1,4 @@
+2025-09-13 21:20:51.794 [info] Started local extension host with pid 6696.
+2025-09-13 21:20:51.801 [info] Started initializing default profile extensions in extensions installation folder. file:///home/gblurt/.vscode-oss/extensions
+2025-09-13 21:20:51.841 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/gblurt/.vscode-oss/extensions
+2025-09-13 21:20:52.134 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
