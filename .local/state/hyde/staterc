@@ -1,0 +1,4 @@
+HYDE_THEME="Tokyo Night"
+WAYBAR_LAYOUT_PATH=/home/gblurt/.local/share/waybar/layouts/hyprdots/01.jsonc
+WAYBAR_LAYOUT_NAME=01
+enableWallDcol="2"
